@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Leche",
+		"description": "Leche entera de vaca, 1 litro",
+		"price": 2.5,
+		"thumbnail": "ruta-imagen-1.jpg",
+		"code": "001",
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"title": "Arroz",
+		"description": "Arroz blanco de grano largo, 1 kg",
+		"price": 1.99,
+		"thumbnail": "ruta-imagen-2.jpg",
+		"code": "002",
+		"stock": 15
+	},
+	{
+		"id": 3,
+		"title": "Pan",
+		"description": "Pan integral fresco, 500g",
+		"price": 2.25,
+		"thumbnail": "ruta-imagen-3.jpg",
+		"code": "003",
+		"stock": 8
+	},
+	{
+		"id": 4,
+		"title": "Aceite",
+		"description": "Aceite de oliva extra virgen, 750ml",
+		"price": 6.99,
+		"thumbnail": "ruta-imagen-4.jpg",
+		"code": "004",
+		"stock": 12
+	},
+	{
+		"id": 5,
+		"title": "Huevos",
+		"description": "Huevos orgánicos, paquete de 12",
+		"price": 4.75,
+		"thumbnail": "ruta-imagen-5.jpg",
+		"code": "005",
+		"stock": 20
+	},
+	{
+		"id": 6,
+		"title": "Yogur",
+		"description": "Yogur griego natural, 500g",
+		"price": 1.49,
+		"thumbnail": "ruta-imagen-6.jpg",
+		"code": "006",
+		"stock": 6
+	},
+	{
+		"id": 7,
+		"title": "Pasta",
+		"description": "Pasta de trigo integral, 500g",
+		"price": 2.1,
+		"thumbnail": "ruta-imagen-7.jpg",
+		"code": "007",
+		"stock": 10
+	},
+	{
+		"id": 8,
+		"title": "Manzanas",
+		"description": "Manzanas frescas, 1 kg",
+		"price": 3.99,
+		"thumbnail": "ruta-imagen-8.jpg",
+		"code": "008",
+		"stock": 18
+	},
+	{
+		"id": 9,
+		"title": "Jugo",
+		"description": "Jugo de naranja natural, 1 litro",
+		"price": 2.75,
+		"thumbnail": "ruta-imagen-9.jpg",
+		"code": "009",
+		"stock": 5
+	},
+	{
+		"id": 10,
+		"title": "Pollo",
+		"description": "Pechugas de pollo sin hueso, 500g",
+		"price": 5.49,
+		"thumbnail": "ruta-imagen-10.jpg",
+		"code": "010",
+		"stock": 14
+	}
+]
